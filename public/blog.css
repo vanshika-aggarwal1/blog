@@ -6,6 +6,7 @@ body {
 .form-container {
   max-width: 100%;
   margin: auto;
+  margin-top: 30px;
   padding: 30px;
   background-color: white;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
