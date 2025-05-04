@@ -15,8 +15,10 @@ This is a blogging website made with Express.js and EJS.
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 2. **Install dependencies**
+   ```bash
    npm install
 3. **Run the server**
+   ```bash
    node server.js
 4. **Open in your browser**
    Visit http://localhost:3000
